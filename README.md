@@ -18,9 +18,8 @@ The Furniture Store Backend is a Spring Boot application designed to manage the 
 
 ## Platform Used
 - Springboot IDE for Eclipse
-To dowload Springboot use below link:
-
-[https://spring.io/tools]
+- To dowload Springboot use below link:
+  [https://spring.io/tools]
 
 ## Project Structure
 
